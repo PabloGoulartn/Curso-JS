@@ -1,0 +1,27 @@
+body
+{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1
+{
+    margin: 20px;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+div
+{
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+
+p
+{
+    margin-top: 10px;
+}
